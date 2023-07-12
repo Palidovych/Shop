@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "",
+      "name": "Chocolate",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    },
+    {
+      "id": 2,
+      "imageUrl": "",
+      "name": "Bread",
+      "count": "2",
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    },
+    {
+      "id": 3,
+      "imageUrl": "",
+      "name": "Water",
+      "count": "1",
+      "size": {
+        "width": 100,
+        "height": 100
+      },
+      "weight": "20g"
+    },
+    {
+      "id": 4,
+      "imageUrl": "",
+      "name": "Orange",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    }]
+  "comments": [
+    {
+      "id": 1,
+      "productId": 1,
+      "description": "some text here",
+      "date": "14:00 12.07.2023"
+    }
+  ]
+}
